@@ -27,7 +27,8 @@ Making technology education stress-free and accessible to everyone.
 
 dcg-animals/ ├──index.html ├──style.css ├──script.js (coming soon) ├──animals-data.js (coming soon) ├──images/ (future) └──README.md
 
-
+## 🚀 Live Demo
+[View Live Site](https://yanbodeadedayo95-coder.github.io/dcg-animals)
 
 ---
 
